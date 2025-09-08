@@ -1,2 +1,2 @@
 # AIAgents
-Exploring agentic AI open-source solutins
+Exploring agentic AI open-source solutions. 
